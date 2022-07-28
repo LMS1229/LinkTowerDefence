@@ -17,9 +17,8 @@
 # ignore Animator
 /[Aa]ssets/Animator/
 
-# ignore prefabs
+# ignore Prefabs
 /[Aa]ssets/Prefabs/
-
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
